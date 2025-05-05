@@ -1,3 +1,5 @@
+# Bitcoin Price Analysis: Trends, Volatility & Visual Insights
+
 **Python • Pandas • Plotly • Cufflinks • Matplotlib**
 
 ---
